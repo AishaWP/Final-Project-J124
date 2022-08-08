@@ -17,4 +17,7 @@ Work for summer final project
 * What is the average amount of money the police get yearly? The average amount of money that was allocated to the police from 2011-2021 was $38,707,538.64
 
 ![Screen Shot 2022-08-07 at 7 27 28 PM](https://user-images.githubusercontent.com/109619683/183337978-31b26e67-bfa4-4eeb-9d91-c65e4610a901.png)
+* How has the City of Escondido's overall budget changed over the past decade? 
+* A short summary of the story. A paragraph is sufficient. Just be as specific and detailed as possible. 
+
 
