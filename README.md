@@ -14,7 +14,7 @@ Over the past decade, the police department has received the largest share of mo
 ![Screen Shot 2022-08-07 at 4 05 18 PM](https://user-images.githubusercontent.com/109619683/183337356-86c86c78-a5d2-446a-a2d6-c90ae660b404.png)
 
 * **Has the police department seen an overall increase in its funding over the past decade?** 
- * To find this amount I created a spereate spreadsheet that had the yeraly values of the police department budget allocation for the past 10 years. I then took the minimum and maximum values, and subtracted them to find the difference. 
+ * To find this amount I created a seperate spreadsheet that had the yearly values of the police department budget allocation for the past 10 years. I then took the minimum and maximum values, and subtracted them to find the difference. 
 The police department has seen an overall increase in funding over the past decade, approximately a 13 million dollar increase.
 
 ![Screen Shot 2022-08-07 at 3 36 50 PM](https://user-images.githubusercontent.com/109619683/183336510-252cf30b-3136-4ec4-b657-469e0e0d7ecc.png)
@@ -36,7 +36,7 @@ The average amount of money that was allocated to the police from 2011-2021 was 
   * Previous Mayor Sam Abed, @MayorSamAbed, Served as mayor or council member in Escondido for 16 years, can contextualize the budgetary decisions from 2011- 2018
   *  Current Councilmember Consuelo Martinez, cmartinez@escondido.org, 760-839-4638, Can also help contextualize the budgetary decisions in the later half of the past decade.
   *   Previous City councilmember Olga Diaz, odiaz@escondido.org; Current City Councilmember Mike Morasco, mmorasco@escondido.org, 760-839-4638
-* **2 Additional Sources**: [The Coast News](https://thecoastnews.com/escondido-police-city-officials-say-they-are-working-on-reform/), [KPBS](https://www.kpbs.org/news/border-immigration/2010/11/02/escondido-police-checkpoints-controversy) These sources would help contextualize the Escondido Police Department's hisotry of policing. I would reach out to the journalsits who wrote these pieces to see what more in depth information they could provide. 
+* **2 Additional Sources**: [The Coast News](https://thecoastnews.com/escondido-police-city-officials-say-they-are-working-on-reform/), [KPBS](https://www.kpbs.org/news/border-immigration/2010/11/02/escondido-police-checkpoints-controversy) These sources would help contextualize the Escondido Police Department's hisotry of policing. I would reach out to the journalists who wrote these pieces to see what more in depth information they could provide. 
 * **Data Visualization**: [Data Visualization Police Department Funds 2011-2021](https://www.datawrapper.de/_/O93W0/)
 
 ![Screen Shot 2022-08-07 at 11 14 16 PM](https://user-images.githubusercontent.com/109619683/183351454-a1cebd2e-ace1-46fa-8933-f29f465d7ee9.png)
