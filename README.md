@@ -4,6 +4,9 @@ Work for summer final project
 1. Decide on a topic for Data Analysis, in this case I want to conduct a decade analysis of the City of Escondido's Budget 
 2. Brainstorm questions I want to glean from the data, which will determine the data I will need to pull from the archives
 3. Throughout this process I used tabula to extract data from pdf's into csv files. 
+
+![Screen Shot 2022-08-08 at 12 56 08 AM](https://user-images.githubusercontent.com/109619683/183368552-0e36d4b2-a2aa-42bf-8a13-d62bf3bd877a.png)
+
 * **Where has most of the cities budget been allocated to in the past decade?** To find this I looked through the budget documents for the past 10 years and took the calculated budget percentages and created a spread sheet. I then took the average of those percentages using the average function on the spreadsheet.
 Over the past decade, the police department has received the largest share of most of the city's annual budget every year. The average percentage the police department has been allocated over the past decade is 43%. 
 
