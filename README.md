@@ -27,6 +27,7 @@ For the past decade, the city of Escondido has had a majority of its budget allo
 * Names, Titles, Contacts: Current Mayor Paul McNamara,pmcnamara@escondido.org, 760-839-4638 Would contextualize the budgetary decisions from 2018 onward; Previous Mayor Sam Abed, @MayorSamAbed, Served as mayor or council member in Escondido for 16 years, can contextualize thebudgetary decisions from 2011- 2018; Current Councilmember Consuelo Martinez, cmartinez@escondido.org, 760-839-4638, Can also help contextualize the budgetary decisions in the later half of the past decade; Previous City councilmember Olga Diaz, odiaz@escondido.org; Current City Councilmember Mike Morasco, mmorasco@escondido.org, 760-839-4638
 * 2 Additional Sources: [The Coast News](https://thecoastnews.com/escondido-police-city-officials-say-they-are-working-on-reform/), [KPBS](https://www.kpbs.org/news/border-immigration/2010/11/02/escondido-police-checkpoints-controversy) These sources would help contextualize the Escondido Police Department's hisotry of policing. I would reach out to the journalsits who wrote these pieces to see what more in depth information they could provide. 
 * Data Visualization: [Data Visualization Police Department 2011-2021](https://www.datawrapper.de/_/O93W0/)
+![Screen Shot 2022-08-07 at 11 14 16 PM](https://user-images.githubusercontent.com/109619683/183351454-a1cebd2e-ace1-46fa-8933-f29f465d7ee9.png)
 
 
 
