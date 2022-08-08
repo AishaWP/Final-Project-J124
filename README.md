@@ -31,6 +31,7 @@ For the past decade, the city of Escondido has had a majority of its budget allo
 ![Screen Shot 2022-08-07 at 11 14 16 PM](https://user-images.githubusercontent.com/109619683/183351454-a1cebd2e-ace1-46fa-8933-f29f465d7ee9.png)
 [Data Viz total annual budget 2011-2021](https://www.datawrapper.de/_/H1fP6/)
 
+
 ![Screen Shot 2022-08-08 at 12 43 21 AM](https://user-images.githubusercontent.com/109619683/183366254-3794405c-08ee-4da9-8bf8-8225035a323d.png)
 
 
