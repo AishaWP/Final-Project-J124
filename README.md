@@ -1,5 +1,5 @@
 # Final-Project-J124
-Work for summer final project
+By Aisha Wallace-Palomares
 # Analysis Process
 1. Decide on a topic for Data Analysis, in this case I want to conduct a decade analysis of the City of Escondido's Budget 
 2. Brainstorm questions I want to glean from the data, which will determine the data I will need to pull from the archives
